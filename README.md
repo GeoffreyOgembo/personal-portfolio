@@ -2,7 +2,7 @@
 
 A portfolio single page application using React and Material UI
 
-### Demo of this site available here [Material-UI-Portfolio Demo](https://materialui-portfolio.netlify.app/)
+### Demo of this site available here [https://personal-portfolio-tawny-sigma.vercel.app/]
 
 #### Installing
 
@@ -36,11 +36,11 @@ Server will be available at http://127.0.0.1:3000 in your browser
 
 ## Home page
 
-![image](https://user-images.githubusercontent.com/19981097/86140838-218ec980-bb13-11ea-87c5-504d68c8d2a4.png)
+
 
 ## Sidebar
 
-![image](https://user-images.githubusercontent.com/19981097/86140963-4aaf5a00-bb13-11ea-854e-012077dd6101.png)
+
 
 ## Resume
 
