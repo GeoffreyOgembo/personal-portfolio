@@ -114,14 +114,14 @@ const Resume = () => {
   return (
     <Box component="header" className={classes.mainContainer}>
       <Typography variant="h4" align="center" className={classes.heading}>
-        Working Experience
+        Geoffrey's  Experience
       </Typography>
       <Box component="div" className={classes.timeLine}>
         <Typography
           variant="h2"
           className={`${classes.timeLineYear} ${classes.timeLineItem}`}
         >
-          2013
+          2020
         </Typography>
         <Box component="div" className={classes.timeLineItem}>
           <Typography
@@ -132,24 +132,23 @@ const Resume = () => {
             web design
           </Typography>
           <Typography variant="body1" align="center" className={classes.body1}>
-          Moringa School
+          Keroka ICT College
           </Typography>
           <Typography
             variant="subtitle1"
             align="center"
             className={classes.subtitle1}
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quas
-            ipsa, laudantium totam perferendis possimus voluptatibus tenetur.
-            Quasi voluptatibus, nam vitae eaque ad, officia laboriosam
-            repudiandae, rerum necessitatibus nisi mollitia.
+           During my time here i worked as a teacher of computer Microsoft suit such as Microsoft Database(Access),Spreadsheets,
+           Powerpoint,Publisher. I then taugt introduction to web design where i could teach basics of HTM and CSS.
+          
           </Typography>
         </Box>
         <Typography
           variant="h2"
           className={`${classes.timeLineYear} ${classes.timeLineItem}`}
         >
-          2014
+          2020
         </Typography>
         <Box component="div" className={classes.timeLineItem}>
           <Typography
@@ -160,24 +159,23 @@ const Resume = () => {
             html & css
           </Typography>
           <Typography variant="body1" align="center" className={classes.body1}>
-            company name where worked
+            Attachee at Gusii Water and Sanitation Company(GWASCO)
           </Typography>
           <Typography
             variant="subtitle1"
             align="center"
             className={classes.subtitle1}
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quas
-            ipsa, laudantium totam perferendis possimus voluptatibus tenetur.
-            Quasi voluptatibus, nam vitae eaque ad, officia laboriosam
-            repudiandae, rerum necessitatibus nisi mollitia.
+            During this time i worked as an attachee at Gusii water And Sanitation company whereby i worked in the IT 
+            Department as a an IT support and also i got an opportunity to study web design from the ict managers and 
+            some web developers from Majisoft company i worked on HTMl and CSS in this company.
           </Typography>
         </Box>
         <Typography
           variant="h2"
           className={`${classes.timeLineYear} ${classes.timeLineItem}`}
         >
-          2015
+          2021
         </Typography>
         <Box component="div" className={classes.timeLineItem}>
           <Typography
@@ -185,48 +183,81 @@ const Resume = () => {
             align="center"
             className={classes.subHeading}
           >
-            Fullstack Javascript
+            Javascript
           </Typography>
           <Typography variant="body1" align="center" className={classes.body1}>
-            company name where worked
+            Attachee Kenya Animal Genetic Resource Centre(KAGRC)
           </Typography>
           <Typography
             variant="subtitle1"
             align="center"
             className={classes.subtitle1}
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quas
-            ipsa, laudantium totam perferendis possimus voluptatibus tenetur.
-            Quasi voluptatibus, nam vitae eaque ad, officia laboriosam
-            repudiandae, rerum necessitatibus nisi mollitia.
+            During my attachment period in KAGRC i worked as an IT support person in all offices of the organization and also in offices
+            i learnt basic javascript whereby could create landing pages using Javascript,HTML and CSS i also learnt how to 
+          
+            
+            
           </Typography>
         </Box>
         <Typography
           variant="h2"
           className={`${classes.timeLineYear} ${classes.timeLineItem}`}
         >
-          2017
-        </Typography>
+           May -November 2022 
+         </Typography>
+        
         <Box component="div" className={classes.timeLineItem}>
           <Typography
             variant="h5"
             align="center"
             className={classes.subHeading}
           >
-            Django & React
+            Rails
           </Typography>
           <Typography variant="body1" align="center" className={classes.body1}>
-            company name where worked
+          Self Taught Web Developer
+
           </Typography>
           <Typography
             variant="subtitle1"
             align="center"
             className={classes.subtitle1}
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quas
-            ipsa, laudantium totam perferendis possimus voluptatibus tenetur.
-            Quasi voluptatibus, nam vitae eaque ad, officia laboriosam
-            repudiandae, rerum necessitatibus nisi mollitia.
+          
+            • Did my diploma course in ICT whereby I learnt basics in programming languages like C, C++,HTML,Javascript.
+            • Developed static websites using HTML , CSS and Basic JavaScript.
+    
+         </Typography>
+        </Box>
+        <Typography
+          variant="h2"
+          className={`${classes.timeLineYear} ${classes.timeLineItem}`}
+        >
+          April 2022 
+          </Typography>
+        <Box component="div" className={classes.timeLineItem}>
+          <Typography
+            variant="h5"
+            align="center"
+            className={classes.subHeading}
+          >
+            Ruby & React
+          </Typography>
+          <Typography variant="body1" align="center" className={classes.body1}>
+          Software Development | Moringa School
+
+          </Typography>
+          <Typography
+            variant="subtitle1"
+            align="center"
+            className={classes.subtitle1}
+          >
+              • Development of Frontend web applications using React js , JavaScript , Tailwind CSS and working with APIs.
+              • Development of Backend projects and implementing technologies like Ruby on Rails and SQL databases.
+              • Led multiple peer projects as Scrum master and was a class representative working closely with Technical Mentors to help students with issues.
+              • Worked on weekly projects meant to mimic project cycles , project research , design and development phases.
+              • Experienced working with version control systems and workflows using GIT.
           </Typography>
         </Box>
       </Box>
