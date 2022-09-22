@@ -39,20 +39,18 @@ const projects = [
     image: project1,
   },
   {
-    name: "Project 2",
-    description: `Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis\
-    consequatur magni quod nesciunt necessitatibus molestiae non\
-    eligendi, magnam est aliquam recusandae? Magnam soluta minus\
-    iste alias sunt veritatis nisi dolores!`,
+    name: "Comic Books Database App",
+    description: `The intended use of this application is designed with the idea of someone who does not read comics in mind.
+     Therefore, the best way to begin reading comics is to pick your favorite character or superhero and begin with those books. 
+     If you find someone else you are interested in, you can also search for their books.`,
     image: project2,
 
   },
   {
     name: "Project 3",
-    description: `Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis\
-    consequatur magni quod nesciunt necessitatibus molestiae non\
-    eligendi, magnam est aliquam recusandae? Magnam soluta minus\
-    iste alias sunt veritatis nisi dolores!`,
+    description:`The intended use of this application is designed with the idea of someone who does not read comics in mind.
+     Therefore, the best way to begin reading comics is to pick your favorite character or superhero and begin with those books. 
+     If you find someone else you are interested in, you can also search for their books.`,
     image: project3,
   },
   {
